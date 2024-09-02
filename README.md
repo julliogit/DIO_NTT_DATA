@@ -456,11 +456,20 @@ git clone https://github.com/julliogit/cactu_tabacaria.git --branch nome.da.bran
     git status | Mostra o status da arvore de trabalho ou area de praparaçao (staging area)
 ``` 
 
+```bash
+    touch arquivo.md
+
+    git add arquivo.md
+
+    git commit -m"mensagem"
+
+    git push | envia para o remoto
+
+    git pull | copia do remoto
+```
+
 
 - [Exemplos de Estruturas de Repetição](https://github.com/cami-la/loops-e-arrays)
-
-
-
 
 ### Aula 17 -
 
