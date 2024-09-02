@@ -467,7 +467,7 @@ git clone https://github.com/julliogit/cactu_tabacaria.git --branch nome.da.bran
 
     git pull | copia do remoto
 ```
-
+- TESTE
 
 - [Exemplos de Estruturas de Repetição](https://github.com/cami-la/loops-e-arrays)
 
